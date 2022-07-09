@@ -1,0 +1,5 @@
+4 Odkurzacz sprzety_elektroniczne 229.99
+2 Mop sprzety 100.00
+3 Gabki przybory 2.29
+7 Szczoteczka_do_zebow przybory 5.00
+1 Telewizor sprzety_elektroniczne 1040.00

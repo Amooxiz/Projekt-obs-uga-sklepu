@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1611915619 source:d:\projekt obs³uga sklepu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<limits.h>
+
+1611915619 source:d:\projekty\projekt obs³uga sklepu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<limits.h>
+

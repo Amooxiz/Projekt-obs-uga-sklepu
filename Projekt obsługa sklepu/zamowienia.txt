@@ -1,0 +1,5 @@
+99 2 2 Szymon Radziszewski Bialystok/kujawska/34 szymonradziszewski@wp.pl 683534234 Mop sprzety Bialystok/Zachodnia/16/25 21/02/2021 in_progress 100.00 200.00
+89 3 4 Suzanna Tomkiel Bialystok/mlynowej/60/39 24781@wp.pl 696969696 Gabki przybory Bialystok/Zachodnia/16/27 21/02/2021 in_progress 2.29 9.16
+56 4 5 Joanna Budzisz Gdansk/beza/54/22 287y4@gmail.pl 782974923 Szczoteczka_do_zebow przybory Bialystok/Zachodnia/18/1 21/02/2021 in_progress 5.00 25.00
+74 4 2 Joanna Budzisz Gdansk/beza/54/22 287y4@gmail.pl 782974923 Szczoteczka_do_zebow przybory Bialystok/Zachodnia/6 in_progress 5.00 10.00
+300 2 1 Szymon Radziszewski Bialystok/kujawska/34 szymonradziszewski@wp.pl 683534234 Mop sprzety Bialystok/Gajowa/5/4 21/02/2021 in_progress 100.00 100.00
